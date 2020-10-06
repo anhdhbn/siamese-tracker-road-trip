@@ -1,4 +1,4 @@
-﻿# siamese-tracker-road-trip  <br/> 基于孪生网络的单目标跟踪论文汇总
+﻿# siamese-tracker-road-trip
 
 ## Contents
 * [Performance](#performance)
